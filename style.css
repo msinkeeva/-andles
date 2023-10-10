@@ -76,7 +76,7 @@ section {
     position: absolute;
     left: 0;
     bottom: 0;
-    background-image: url(/images/section-decor.png);
+    background-image: url(images/section-decor.png);
     width: 22px;
     height: 30px;
 }
@@ -124,7 +124,7 @@ header {
     left: -23px;
     top: -3px;
     content: '';
-    background-image: url(/images/phone.svg);
+    background-image: url(images/phone.svg);
     width: 20px;
     height: 20px;
 }
@@ -529,7 +529,7 @@ header {
 
 .accordeon__title::after {
     content: '';
-    background-image: url(/images/arrow.svg);
+    background-image: url(images/arrow.svg);
     width: 16px;
     height: 16px;
     position: absolute;
@@ -561,7 +561,7 @@ header {
 }
 
 .promo {
-    background-image: url(/images/promo-bg.jpg);
+    background-image: url(images/promo-bg.jpg);
     padding: 140px 0;
     background-repeat: no-repeat;
     background-size: cover;
